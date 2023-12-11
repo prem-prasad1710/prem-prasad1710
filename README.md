@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prem prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem prasad" height="30" width="40" /></a>
 <a href="https://instagram.com/callme_prem_kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callme_prem_kashyap" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prem prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prem prasad" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pr20090066870/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prem prasad" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prem prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prem prasad" height="30" width="40" /></a>
 </p>
 
