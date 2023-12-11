@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prem Prasad</h1>
 <h3 align="center">FRONTEND DEVELOPER|UI/UX DESIGNER|AL&ML</h3>
-<img id ="gif" align ="right" alt ="coding" width ="400"src = "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-<style>
-  .gif{
-    border-radius:20px;
-  }
-</style>
+<img align ="right" alt ="coding" width ="400"src = "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" , border-radius:20px>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="prem-prasad" /> </p>
 
 - 🌱 I’m currently learning **javascript,rust,node.js,react.js**
