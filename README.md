@@ -1,6 +1,9 @@
-# 💫 About Me:
- I’m currently learning Node Js | Redis | Kafka<br><br>💬 Ask me about React Js | Express Js | Node Js | Mongo DB | MySQL<br><br>📫 How to reach me pr20090066870@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1hCyrq2ZTG4q2GZAHXMlSNhgFUPasgqmZ/view?usp=sharing<br><br>⚡ Fun fact "Did you know? Software development is like a recipe; just like a chef balances ingredients, a developer balances code, design, and user experience to create the perfect digital dish!"
-
+# 💫 About Prem Prasad 
+<img align ="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400px" alt="" />
+ I’m currently learning Node Js | Redis | Kafka<br><br>💬 Ask me about React Js | Express Js | Node Js | Mongo DB | MySQL<br>
+ <br>📫 How to reach me pr20090066870@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1hCyrq2ZTG4q2GZAHXMlSNhgFUPasgqmZ/view?usp=sharing<br><br>⚡ Fun fact "Did you know? Software development is like  <br /> a recipe; just like a chef balances ingredients, a developer balances code, design, and user experience to create the perfect digital dish!"
+ <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="prem-prasad" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prem-prasad1710/) 
@@ -17,8 +20,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prem-prasad1710&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=prem-prasad1710&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
