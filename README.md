@@ -1,7 +1,7 @@
 # 💫 About Prem Prasad 
 <img align ="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400px" alt="" />
  I’m currently learning Node Js | Redis | Kafka<br><br>💬 Ask me about React Js | Express Js | Node Js | Mongo DB | MySQL<br>
- <br>📫 How to reach me pr20090066870@gmail.com<br><br>📄 Know about my experienceshttps://drive.google.com/file/d/19h76dcKdVDjw5FAg8zr7Y5_xpfatibum/view?usp=sharing<br><br>⚡ Fun fact "Did you know? Software development is like  <br /> a recipe; just like a chef balances ingredients, a developer balances code, design, and user experience to create the perfect digital dish!"
+ <br>📫 How to reach me pr20090066870@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/19h76dcKdVDjw5FAg8zr7Y5_xpfatibum/view?usp=sharing<br><br>⚡ Fun fact "Did you know? Software development is like  <br /> a recipe; just like a chef balances ingredients, a developer balances code, design, and user experience to create the perfect digital dish!"
  <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="prem-prasad" /> </p>
 
